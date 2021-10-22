@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naresh Penugurthi
-- 👀 I’m interested in ... SQL Server, NodeJs, Python
+- 👀 I’m interested in ... ASP.NET Core, C#, SQL Server, NodeJs, Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... pen.naresh@gmail.com
